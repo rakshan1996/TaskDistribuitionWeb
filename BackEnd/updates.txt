@@ -1,0 +1,2 @@
+1) set up aws account and a ec2 machine on it 
+2) will be setting up passwordless acess to it 
