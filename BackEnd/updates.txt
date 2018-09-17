@@ -1,2 +1,5 @@
 1) set up aws account and a ec2 machine on it 
 2) will be setting up passwordless acess to it 
+3) found out that red hat instance of ec2 doesnot allow installation of mysql on ec2 
+	had to delete all the instances 
+4)Created new Ec2 instance set up mmy sql on it 
